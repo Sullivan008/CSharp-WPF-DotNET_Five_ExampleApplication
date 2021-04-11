@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.Client", "Application.Client\Application.Client.csproj", "{E5D76B56-BBC8-499E-9EAB-E8031F72249F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.DataAccessLayer", "Application.Infrastructure\Application.DataAccessLayer.csproj", "{B4D653E1-27F6-4D58-A069-CC3C3DB3A0A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.DataAccessLayer", "Application.DataAccessLayer\Application.DataAccessLayer.csproj", "{B4D653E1-27F6-4D58-A069-CC3C3DB3A0A8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.Core", "Application.Core\Application.Core.csproj", "{60CF92DF-4DDC-47FA-80B5-999BFEB5ED9A}"
 EndProject

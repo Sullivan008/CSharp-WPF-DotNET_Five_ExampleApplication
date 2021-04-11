@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Application.Core\Application.Core.csproj" />
-    <ProjectReference Include="..\Application.Infrastructure\Application.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Application.DataAccessLayer\Application.DataAccessLayer.csproj" />
   </ItemGroup>
 
 </Project>

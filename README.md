@@ -1,5 +1,3 @@
-# CSharp-WPF-.NET_Five-ExampleApplication
-
 # C# - WPF - .NET 5 - How to build a Simple Example Application in WPF System based on .NET 5 and how to use MVVM and Mediator Design Patterns in this application. [Year of Development: 2021]
 
 About the application technologies and operation:
